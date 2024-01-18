@@ -13,6 +13,9 @@ except IndexError:
 finally:
     print("This is finally block")
 
+#output
+Index Out of Bound.
+This is finally block
 
 
 
