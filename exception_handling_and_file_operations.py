@@ -18,7 +18,6 @@ Index Out of Bound.
 This is finally block
 
 
-
 #File Operations
 # open a file
 file1 = open("test.txt", "r")
