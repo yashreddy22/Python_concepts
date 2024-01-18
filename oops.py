@@ -5,7 +5,7 @@ class Employee:
         self.name=name
         self.age=age
         self.designation=designation
-        
+    
         
 emp1=Employee(1,'yaswanth',23,'consultant')
 print(emp1.name)
